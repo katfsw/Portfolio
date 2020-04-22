@@ -9,7 +9,7 @@ const Top = () => {
         <h1 className="title"> - Brandy Becker - </h1>
         <p className="bio">
           <p>
-            Hey! I'm Brandy, I'm a 23 year old Full Stack Web Developer. I love
+            Hey! I'm Brandy, I'm a Full Stack Web Developer. I love
             everything from cats, code, and coffee! I love design and I love a
             good challenge.
           </p>
