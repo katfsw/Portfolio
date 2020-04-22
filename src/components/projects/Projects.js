@@ -13,6 +13,12 @@ const Projects = () => {
           />
           <h2>Title</h2>
           <p>Project Desc</p>
+          <a className="links" href="">
+            <i class="fab fa-github ii" />
+          </a>
+          <a className="links" href="">
+            <i class="fas fa-globe ii" />
+          </a>
         </div>
 
         <div className="project">
@@ -22,6 +28,12 @@ const Projects = () => {
           />
           <h2>Title</h2>
           <p>Project Desc</p>
+          <a className="links" href="">
+            <i class="fab fa-github ii" />
+          </a>
+          <a className="links" href="">
+            <i class="fas fa-globe ii" />
+          </a>
         </div>
 
         <div className="project">
@@ -31,6 +43,12 @@ const Projects = () => {
           />
           <h2>Title</h2>
           <p>Project Desc</p>
+          <a className="links" href="">
+            <i class="fab fa-github ii" />
+          </a>
+          <a className="links" href="">
+            <i class="fas fa-globe ii" />
+          </a>
         </div>
 
         <div className="project">
@@ -40,6 +58,12 @@ const Projects = () => {
           />
           <h2>Title</h2>
           <p>Project Desc</p>
+          <a className="links" href="">
+            <i class="fab fa-github ii" />
+          </a>
+          <a className="links" href="">
+            <i class="fas fa-globe ii" />
+          </a>
         </div>
 
         <div className="project">
@@ -49,6 +73,12 @@ const Projects = () => {
           />
           <h2>Title</h2>
           <p>Project Desc</p>
+          <a className="links" href="">
+            <i class="fab fa-github ii" />
+          </a>
+          <a className="links" href="">
+            <i class="fas fa-globe ii" />
+          </a>
         </div>
 
         <div className="project p">
@@ -58,6 +88,12 @@ const Projects = () => {
           />
           <h2>Title</h2>
           <p>Project Desc</p>
+          <a className="links" href="">
+            <i class="fab fa-github ii" />
+          </a>
+          <a className="links" href="">
+            <i class="fas fa-globe ii" />
+          </a>
         </div>
 
         <div className="project p">
@@ -67,6 +103,12 @@ const Projects = () => {
           />
           <h2>Title</h2>
           <p>Project Desc</p>
+          <a className="links" href="">
+            <i class="fab fa-github ii" />
+          </a>
+          <a className="links" href="">
+            <i class="fas fa-globe ii" />
+          </a>
         </div>
 
         <div className="project p">
@@ -76,6 +118,12 @@ const Projects = () => {
           />
           <h2>Title</h2>
           <p>Project Desc</p>
+          <a className="links" href="">
+            <i class="fab fa-github ii" />
+          </a>
+          <a className="links" href="">
+            <i class="fas fa-globe ii" />
+          </a>
         </div>
 
         <div className="project p">
@@ -85,6 +133,12 @@ const Projects = () => {
           />
           <h2>Title</h2>
           <p>Project Desc</p>
+          <a className="links" href="">
+            <i class="fab fa-github ii" />
+          </a>
+          <a className="links" href="">
+            <i class="fas fa-globe ii" />
+          </a>
         </div>
 
         <div className="project p">
@@ -94,6 +148,12 @@ const Projects = () => {
           />
           <h2>Title</h2>
           <p>Project Desc</p>
+          <a className="links" href="">
+            <i class="fab fa-github ii" />
+          </a>
+          <a className="links" href="">
+            <i class="fas fa-globe ii" />
+          </a>
         </div>
       </div>
     </div>
