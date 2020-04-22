@@ -6,7 +6,7 @@ const Top = () => {
   return (
     <div className="header">
       <div className="top-flex">
-        <h1 className="title">Brandy Becker</h1>
+        <h1 className="title"> - Brandy Becker - </h1>
         <p className="bio">
           <p>
             Hey! I'm Brandy, I'm a 23 year old Full Stack Web Developer. I love

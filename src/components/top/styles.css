@@ -42,6 +42,7 @@
   font-family: "Lobster", cursive;
   font-size: 4rem;
   text-align: center;
+  margin-left: -3rem;
 }
 
 /* Carousel Quote */
@@ -69,22 +70,10 @@
   font-size: 0.8rem;
 }
 
-@media (max-width: 300px) {
-  .header {
-    flex-direction: column;
-    padding: 0;
-  }
-  .carousel {
-    display: none;
-  }
-  .bio {
-    margin: 0 auto;
-  }
-  .quote {
-    display: none;
-  }
-}
-@media (max-width: 600px) {
+
+
+
+@media (max-width: 1200px) {
   .header {
     flex-direction: column;
   }
@@ -100,11 +89,31 @@
     width: 100%;
   }
 }
-@media (max-width: 1200px) {
+@media (max-width: 600px) {
   .header {
     flex-direction: column;
   }
   .carousel {
     width: 100%;
+  }
+  .title{
+    font-size: 3.5rem;
+    margin: 0;
+  }
+}
+
+@media (max-width: 300px) {
+  .header {
+    flex-direction: column;
+    padding: 0;
+  }
+  .carousel {
+    display: none;
+  }
+  .bio {
+    margin: 0 auto;
+  }
+  .quote {
+    display: none;
   }
 }
