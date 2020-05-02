@@ -1,0 +1,16 @@
+.form-wrapper{
+    background-color: black;
+    opacity: 0.8;
+    padding: 2%;
+    
+}
+.forminputs{
+    border: 2px solid grey;
+    background-color: grey;
+    padding: 1%;
+    border-radius: 2em;
+    margin: 1%;
+}
+input{
+    width: 50%;
+}
